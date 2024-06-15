@@ -2,6 +2,11 @@
 
 RedDrop is a Flutter-based web application designed for efficient blood management through a robust admin panel. It allows administrators to oversee user activities, including viewing total registered users, managing approved and declined accounts, and creating social posts to promote blood donation drives and health awareness. Additionally, RedDrop offers comprehensive reporting features, enabling admins to generate detailed reports of successful blood donations and export these reports as XLS files, filtered by specific dates and detailing interactions between seekers and donors. This project aims to streamline the management of blood donation activities, making it an invaluable tool for healthcare organizations, blood banks, and NGOs to enhance their blood donation campaigns.
 
+🔑 Setup
+1) Setup firebase in app. (https://firebase.google.com/docs/flutter/setup?platform=web)
+2) For Login => Add a "admin" collection in firestore database and add a login mail and password as per below screenshot
+<img width="1263" alt="Screenshot 2024-06-15 at 10 27 23 PM" src="https://github.com/deepbhikadiya/RedDrop-Admin/assets/105035510/aad4f6e1-fed7-4bb9-bb1d-bda53ac38850">
+
 🔑 Key features
 ✔️ Logins for admin
 ✔️ User management
