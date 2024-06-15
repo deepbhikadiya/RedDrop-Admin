@@ -1,22 +1,16 @@
-# RedDrop-Admin
+# web_redrop
 
-RedDrop is a Flutter-based web application designed for efficient blood management through a robust admin panel. It allows administrators to oversee user activities, including viewing total registered users, managing approved and declined accounts, and creating social posts to promote blood donation drives and health awareness. Additionally, RedDrop offers comprehensive reporting features, enabling admins to generate detailed reports of successful blood donations and export these reports as XLS files, filtered by specific dates and detailing interactions between seekers and donors. This project aims to streamline the management of blood donation activities, making it an invaluable tool for healthcare organizations, blood banks, and NGOs to enhance their blood donation campaigns.
+A new Flutter project.
 
-🔑 Setup
-1) Setup firebase in app. (https://firebase.google.com/docs/flutter/setup?platform=web)
-2) For Login => Add a "admin" collection in firestore database and add a login mail and password as per below screenshot
-<img width="1263" alt="Screenshot 2024-06-15 at 10 27 23 PM" src="https://github.com/deepbhikadiya/RedDrop-Admin/assets/105035510/aad4f6e1-fed7-4bb9-bb1d-bda53ac38850">
+## Getting Started
 
-🔑 Key features
-✔️ Logins for admin
-✔️ User management
-✔️ Create a post
-✔️ Generate a report
+This project is a starting point for a Flutter application.
 
-🔑 Screenshots
-<img width="1440" alt="Screenshot 2024-06-15 at 10 22 12 PM" src="https://github.com/deepbhikadiya/RedDrop-Admin/assets/105035510/92e8d7b0-411d-475f-a9dd-74dd1c87cd83">
-<img width="1436" alt="Screenshot 2024-06-15 at 10 24 04 PM" src="https://github.com/deepbhikadiya/RedDrop-Admin/assets/105035510/430a02c7-f572-4b89-b2cc-49f8f81a883c">
-<img width="1440" alt="Screenshot 2024-06-15 at 10 23 00 PM" src="https://github.com/deepbhikadiya/RedDrop-Admin/assets/105035510/9c194066-7710-4dc5-8d60-1632d0b57720">
-<img width="1438" alt="Screenshot 2024-06-15 at 10 24 12 PM" src="https://github.com/deepbhikadiya/RedDrop-Admin/assets/105035510/0f77124e-bece-40b3-9e1b-46a125069a19">
-<img width="1438" alt="Screenshot 2024-06-15 at 10 22 52 PM" src="https://github.com/deepbhikadiya/RedDrop-Admin/assets/105035510/ccb0cab1-6e08-48c7-8cbc-ef32f9111bc5">
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
